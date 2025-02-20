@@ -1,0 +1,19 @@
+[project]
+name = "perplexity-seo"
+version = "0.1.0"
+description = "SEO (Monitoring + actual Optimization) for Perplexity (later maybe ChatGPT etc.)"
+authors = [
+    {name = "Adrian Stritzinger", email = "Adrian.Stritzinger@askui.com"},
+]
+dependencies = []
+requires-python = ">=3.12"
+readme = "README.md"
+license = {text = "MIT"}
+
+[build-system]
+requires = ["pdm-backend"]
+build-backend = "pdm.backend"
+
+
+[tool.pdm]
+distribution = true
