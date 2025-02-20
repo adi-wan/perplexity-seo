@@ -4,6 +4,7 @@ version = "0.1.0"
 description = "Default template for PDM package"
 authors = [
     {name = "Adrian Stritzinger", email = "adrian.stritzinger@gmail.com"},
+    {name = "Shelling Chutify", email = "shelling@chutify.com"}
 ]
 dependencies = [
     "playwright>=1.41.2",
